@@ -1,4 +1,4 @@
-#《從Prompt到Product：掌握GPT模型API、RAG、Agent與Codex實踐指南》範例程式碼
+## 《從Prompt到Product：掌握GPT模型API、RAG、Agent與Codex實踐指南》範例程式碼
 本儲存庫為《從Prompt到Product：掌握GPT模型API、RAG、Agent與Codex實踐指南》一書的範例程式碼（Sample Code Repository），提供書中各章節使用的程式碼與相關資源。
 
 讀者可以透過本儲存庫下載範例、實際操作，並依照自己的需求進行修改與延伸。
